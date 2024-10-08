@@ -1,0 +1,8 @@
+nav {
+  background-color: #ccc;
+  padding: 15px;
+}
+
+nav > a {
+  padding-right: 5px;
+}

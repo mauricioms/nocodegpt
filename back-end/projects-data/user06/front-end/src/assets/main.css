@@ -1,0 +1,11 @@
+@import './base.css';
+@import 'https://fonts.googleapis.com/css?family=Fira Code';
+
+#app {
+  padding: 3px;
+}
+
+body {
+  font-family: 'Fira Code';
+  font-size: 12px;
+}

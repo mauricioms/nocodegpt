@@ -1,0 +1,12 @@
+#version: "3.8"
+
+services:
+  app:
+    env_file: .env
+    build:
+      network: host
+      context: .
+    ports:
+      - "${WEB_PORT}:${WEB_PORT}"
+    extra_hosts:
+      - "registry.npmjs.org:104.16.20.35"
