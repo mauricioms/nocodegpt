@@ -186,7 +186,7 @@ Source code files where the code must be generated:
 Output: All the answers should include the file name and all the content of source code files. Particularly, I do not want a diff.
 ',  'Fix the bug described below in portuguese:', 'vue;typescript;sql'),
 
-(4, 'Layout', 'I am a software developer and I want your help to re-implement the codes of the files, improving the screen of my complete web application using the following programming technologies:
+(4, 'Layout', 'I am a software developer and I want your help to re-implement the codes of the files, improving the page of my complete web application using the following programming technologies:
 
 Web systems are divided into two modules: front-end and back-end.
 Programming Language: Typescript.
