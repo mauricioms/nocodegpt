@@ -1,7 +1,21 @@
 # NoCodeGPT
 
-NoCodeGPT is a tool designed to help beginner developers build web applications from scratch.
+Repository with results generated use NoCodeGPT Tool for the paper _NoCodeGPT: A No-Code Interface for Building Web Apps with Language Models_.
 
-It simplifies the development process by offering an intuitive interface that automates the configuration of the environment and eliminates the need for prior knowledge of programming languages or computer logic.
+## NoCodeGPT Prompt Templates
 
-In this way, NoCodeGPT facilitates the creation of software, making development accessible to a wider audience, even without advanced technical skills.
+- Template for Initial Prompt:
+
+- Template for Feature Prompt:
+
+- Template for Layout Prompt:
+
+## Prompts used by the Participants of the First Study
+
+- [End-to-End Software Construction using ChatGPT: An Experience Report](https://github.com/mauricioms/results-generated-with-chatgpt)
+
+## Prompts Used by the Participants of the NoCodeGPT Evaluation
+
+- [Prompts first experiment]
+
+- [Prompts second experiment]
