@@ -4,11 +4,9 @@ Repository with results generated use NoCodeGPT Tool for the paper _NoCodeGPT: A
 
 ## NoCodeGPT Prompt Templates
 
-- Template for Initial Prompt:
-
-- Template for Feature Prompt:
-
-- Template for Layout Prompt:
+- [Template for Initial Prompt](./template_initial_prompt.md)
+- [Template for Feature Prompt](./template_feature_prompt.md)
+- [Template for Layout Prompt](./template_layout_prompt.md)
 
 ## Prompts used by the Participants of the First Study
 
