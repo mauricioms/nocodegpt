@@ -10,7 +10,7 @@ Repository with results generated use NoCodeGPT Tool for the paper _NoCodeGPT: A
 
 ## Prompts used by the Participants of the First Study
 
-- [End-to-End Software Construction using ChatGPT: An Experience Report](https://github.com/mauricioms/results-generated-with-chatgpt)
+- [Results Generated in Exploratory Study](https://github.com/mauricioms/results-generated-with-chatgpt)
 
 ## Prompts Used by the Participants of the NoCodeGPT Evaluation
 
