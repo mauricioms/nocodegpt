@@ -1,4 +1,4 @@
-# NoCodeGPT
+# Results Generated and NoCodeGPT Tool
 
 Repository with results generated use NoCodeGPT Tool for the paper _NoCodeGPT: A No-Code Interface for Building Web Apps with Language Models_.
 
